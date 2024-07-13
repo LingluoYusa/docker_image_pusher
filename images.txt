@@ -16,6 +16,7 @@ docker.io/natfrp/launcher:latest
 seafileltd/seafile-mc:latest
 docker.io/louislam/uptime-kuma:latest
 docker.io/wiznote/wizserver:latest
+docker.io/kerberos/agent:latest
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
