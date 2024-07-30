@@ -8,16 +8,16 @@
 docker.io/cloudreve/cloudreve:latest
 docker.io/mysql:latest
 docker.io/yidadaa/chatgpt-next-web:latest
-docker.io/jenkins/jenkins:latest
+#docker.io/jenkins/jenkins:latest
 docker.io/analogic/poste.io:latest
 docker.io/deluan/navidrome:latest
 portainer/portainer-ee:sts
-docker.io/natfrp/launcher:latest
+#docker.io/natfrp/launcher:latest
 seafileltd/seafile-mc:latest
 docker.io/louislam/uptime-kuma:latest
 docker.io/wiznote/wizserver:latest
 docker.io/kerberos/agent:latest
-docker.io/linuxserver/duplicati:2.0.8
+#docker.io/linuxserver/duplicati:2.0.8
 
 
 #支持指定架构
