@@ -1,4 +1,4 @@
-docker.io/zyj-dockers/agent:latest
+docker.io/kerberos/agent:latest
 docker.io/sanjusss/aliyun-ddns:latest
 docker.io/cloudreve/cloudreve:latest
 docker.io/mysql:latest
