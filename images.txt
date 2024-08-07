@@ -7,6 +7,7 @@ docker.io/deluan/navidrome:latest
 docker.io/louislam/uptime-kuma:latest
 docker.io/wiznote/wizserver:latest
 docker.io/rockchin/qchatgpt:latest
+docker.io/mlikiowa/napcat-docker:latest
 
 #指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
