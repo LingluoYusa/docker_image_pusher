@@ -10,6 +10,7 @@ docker.io/rockchin/qchatgpt:latest
 docker.io/mlikiowa/napcat-docker:latest
 docker.io/lobehub/lobe-chat:latest
 docker.io/gitea/gitea:latest
+docker.io/jellyfin/jellyfin:unstable
 
 #指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
