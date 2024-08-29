@@ -18,7 +18,7 @@ docker.io/jellyfin/jellyfin:unstable
 #指定版本
 docker.io/linuxserver/duplicati:2.0.8
 docker.io/halohub/halo:1.5.3
-portainer/portainer-ee:sts
+portainer/portainer-ee:latest
 docker.io/seafileltd/seafile-mc:9.0.5
 
 
