@@ -9,7 +9,7 @@ docker.io/wiznote/wizserver:latest
 docker.io/lobehub/lobe-chat:latest
 docker.io/gitea/gitea:latest
 docker.io/jellyfin/jellyfin:unstable
-docker.io/xhongc/music_tag_web:lates
+docker.io/xhongc/music_tag_web:latest
 portainer/portainer-ee:latest
 
 #指定架构
