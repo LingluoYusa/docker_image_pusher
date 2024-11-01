@@ -12,6 +12,7 @@ docker.io/jellyfin/jellyfin:unstable
 docker.io/xhongc/music_tag_web:latest
 docker.io/adguard/adguardhome:latest
 portainer/portainer-ee:latest
+linuxserver/qbittorrent:latest
 
 #指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
