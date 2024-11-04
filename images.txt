@@ -11,7 +11,7 @@ docker.io/gitea/gitea:latest
 docker.io/jellyfin/jellyfin:unstable
 docker.io/xhongc/music_tag_web:latest
 docker.io/adguard/adguardhome:latest
-docker.io/rustdesk/rustdesk-server
+
 portainer/portainer-ee:latest
 linuxserver/qbittorrent:latest
 
