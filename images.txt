@@ -14,6 +14,7 @@ docker.io/adguard/adguardhome:latest
 docker.io/rustdesk/rustdesk-server:latest
 docker.io/githubyumao/mcsmanager-daemon:latest
 docker.io/githubyumao/mcsmanager-web:latest
+docker.io/openjdk:17
 
 portainer/portainer-ee:latest
 linuxserver/qbittorrent:latest
