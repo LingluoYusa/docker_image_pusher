@@ -5,7 +5,6 @@ docker.io/analogic/poste.io:latest
 docker.io/deluan/navidrome:latest
 docker.io/louislam/uptime-kuma:latest
 docker.io/wiznote/wizserver:latest
-docker.io/lobehub/lobe-chat:latest
 docker.io/gitea/gitea:latest
 docker.io/jellyfin/jellyfin:unstable
 docker.io/xhongc/music_tag_web:latest
@@ -34,3 +33,4 @@ docker.io/seafileltd/seafile-mc:9.0.5
 #docker.io/rockchin/qchatgpt:latest
 #docker.io/mlikiowa/napcat-docker:latest
 #docker.io/keking/kkfileview:latest
+#docker.io/lobehub/lobe-chat:latest
