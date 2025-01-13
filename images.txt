@@ -14,6 +14,7 @@ docker.io/githubyumao/mcsmanager-daemon:latest
 docker.io/githubyumao/mcsmanager-web:latest
 docker.io/justsong/one-api:latest
 docker.io/collabora/code:latest
+docker.io/swaggerapi/swagger-ui:latest
 
 portainer/portainer-ee:latest
 linuxserver/qbittorrent:latest
