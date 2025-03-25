@@ -15,7 +15,7 @@ docker.io/githubyumao/mcsmanager-web:latest
 docker.io/justsong/one-api:latest
 docker.io/collabora/code:latest
 ghcr.io/sillytavern/sillytavern:latest
-docker.io/codercom/code-server:latest
+docker.io/chaoszhu/easynode:latest
 
 portainer/portainer-ee:latest
 linuxserver/qbittorrent:latest
