@@ -16,6 +16,7 @@ docker.io/justsong/one-api:latest
 docker.io/collabora/code:latest
 ghcr.io/sillytavern/sillytavern:latest
 docker.io/chaoszhu/easynode:latest
+docker.io/bitnami/keycloak:latest
 
 portainer/portainer-ee:latest
 linuxserver/qbittorrent:latest
