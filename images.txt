@@ -1,3 +1,4 @@
+docker.io/nriver/trilium-cn:latest
 docker.io/louislam/uptime-kuma:latest
 docker.io/gitea/gitea:latest
 docker.io/rustdesk/rustdesk-server:latest
