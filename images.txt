@@ -1,21 +1,7 @@
-docker.io/sanjusss/aliyun-ddns:latest
-docker.io/cloudreve/cloudreve:latest
-docker.io/yidadaa/chatgpt-next-web:latest
-docker.io/analogic/poste.io:latest
-docker.io/deluan/navidrome:latest
 docker.io/louislam/uptime-kuma:latest
-docker.io/wiznote/wizserver:latest
 docker.io/gitea/gitea:latest
-docker.io/jellyfin/jellyfin:unstable
-docker.io/xhongc/music_tag_web:latest
-docker.io/adguard/adguardhome:latest
 docker.io/rustdesk/rustdesk-server:latest
-docker.io/githubyumao/mcsmanager-daemon:latest
-docker.io/githubyumao/mcsmanager-web:latest
-docker.io/justsong/one-api:latest
-docker.io/collabora/code:latest
-ghcr.io/sillytavern/sillytavern:latest
-docker.io/chaoszhu/easynode:latest
+docker.io/zadam/trilium:latest
 
 portainer/portainer-ee:latest
 linuxserver/qbittorrent:latest
@@ -27,7 +13,6 @@ linuxserver/qbittorrent:latest
 docker.io/linuxserver/duplicati:2.0.8
 docker.io/linuxserver/duplicati:2.1.0
 docker.io/halohub/halo:1.5.3
-docker.io/seafileltd/seafile-mc:9.0.5
 
 
 #归档
@@ -38,3 +23,19 @@ docker.io/seafileltd/seafile-mc:9.0.5
 #docker.io/keking/kkfileview:latest
 #docker.io/lobehub/lobe-chat:latest
 #docker.io/jellyfin/jellyfin:latest
+#docker.io/sanjusss/aliyun-ddns:latest
+#docker.io/cloudreve/cloudreve:latest
+#docker.io/yidadaa/chatgpt-next-web:latest
+#docker.io/analogic/poste.io:latest
+#docker.io/deluan/navidrome:latest
+#docker.io/wiznote/wizserver:latest
+#docker.io/jellyfin/jellyfin:unstable
+#docker.io/xhongc/music_tag_web:latest
+#docker.io/adguard/adguardhome:latest
+#docker.io/justsong/one-api:latest
+#docker.io/collabora/code:latest
+#ghcr.io/sillytavern/sillytavern:latest
+#docker.io/chaoszhu/easynode:latest
+#docker.io/seafileltd/seafile-mc:9.0.5
+#docker.io/githubyumao/mcsmanager-daemon:latest
+#docker.io/githubyumao/mcsmanager-web:latest
