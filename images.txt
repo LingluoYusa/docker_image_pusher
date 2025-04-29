@@ -1,7 +1,7 @@
 docker.io/louislam/uptime-kuma:latest
 docker.io/gitea/gitea:latest
 docker.io/rustdesk/rustdesk-server:latest
-docker.io/zadam/trilium:latest
+ghcr.io/logseq/logseq-webapp:latest
 
 portainer/portainer-ee:latest
 linuxserver/qbittorrent:latest
