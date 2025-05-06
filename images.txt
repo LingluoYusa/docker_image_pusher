@@ -11,7 +11,7 @@ linuxserver/qbittorrent:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #指定版本
-docker.io/linuxserver/duplicati:2.0.8
+#docker.io/linuxserver/duplicati:2.0.8
 docker.io/linuxserver/duplicati:2.1.0
 docker.io/halohub/halo:1.5.3
 
