@@ -1,5 +1,4 @@
-docker.io/postgres:13
-docker.io/joplin/server:latest
+docker.io/anynoteofficial/anynote:latest
 docker.io/louislam/uptime-kuma:latest
 docker.io/gitea/gitea:latest
 docker.io/rustdesk/rustdesk-server:latest
