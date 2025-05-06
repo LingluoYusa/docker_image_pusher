@@ -1,4 +1,4 @@
-docker.io/anynoteofficial/anynote:latest
+docker.io/codercom/code-server:latest
 docker.io/louislam/uptime-kuma:latest
 docker.io/gitea/gitea:latest
 docker.io/rustdesk/rustdesk-server:latest
