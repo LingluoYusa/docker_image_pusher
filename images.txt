@@ -1,5 +1,5 @@
-docker.io/xhofe/alist:latest-aio
-docker.io/neosmemo/memos:stable
+docker.io/postgres:13
+docker.io/joplin/server:latest
 docker.io/louislam/uptime-kuma:latest
 docker.io/gitea/gitea:latest
 docker.io/rustdesk/rustdesk-server:latest
