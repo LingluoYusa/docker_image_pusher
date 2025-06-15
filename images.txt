@@ -1,5 +1,4 @@
 docker.io/vaultwarden/server:latest
-docker.io/cloudreve/cloudreve:latest
 docker.io/zadam/trilium:latest
 docker.io/louislam/uptime-kuma:latest
 docker.io/gitea/gitea:latest
