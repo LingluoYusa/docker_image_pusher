@@ -1,5 +1,5 @@
 docker.io/vaultwarden/server:latest
-docker.io/xhofe/alist:latest-aio
+docker.io/cloudreve/cloudreve:latest
 docker.io/zadam/trilium:latest
 docker.io/louislam/uptime-kuma:latest
 docker.io/gitea/gitea:latest
@@ -17,6 +17,7 @@ docker.io/halohub/halo:1.5.3
 
 
 #归档
+#docker.io/xhofe/alist:latest-aio
 #docker.io/linuxserver/duplicati:2.0.8
 #linuxserver/qbittorrent:latest
 #docker.io/jenkins/jenkins:latest
