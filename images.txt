@@ -1,3 +1,5 @@
+docker.io/githubyumao/mcsmanager-daemon:latest
+docker.io/githubyumao/mcsmanager-web:latest
 docker.io/vaultwarden/server:latest
 docker.io/zadam/trilium:latest
 docker.io/louislam/uptime-kuma:latest
@@ -40,5 +42,3 @@ docker.io/halohub/halo:1.5.3
 #ghcr.io/sillytavern/sillytavern:latest
 #docker.io/chaoszhu/easynode:latest
 #docker.io/seafileltd/seafile-mc:9.0.5
-#docker.io/githubyumao/mcsmanager-daemon:latest
-#docker.io/githubyumao/mcsmanager-web:latest
