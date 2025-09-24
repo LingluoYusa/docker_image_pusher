@@ -9,7 +9,7 @@ docker.io/gitea/gitea:latest
 docker.io/rustdesk/rustdesk-server:latest
 ghcr.io/logseq/logseq-webapp:latest
 
-portainer/portainer-ee:latest
+portainer/portainer-ee:sts
 
 #指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
