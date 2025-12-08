@@ -2,6 +2,7 @@ docker.io/jellyfin/jellyfin:latest
 docker.io/githubyumao/mcsmanager-daemon:latest
 docker.io/githubyumao/mcsmanager-web:latest
 
+docker.io/coleifer/sqlite-web:latest
 docker.io/vaultwarden/server:latest
 docker.io/zadam/trilium:latest
 docker.io/louislam/uptime-kuma:2
