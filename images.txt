@@ -2,7 +2,6 @@ docker.io/netdata/netdata:latest
 docker.io/postgres:16
 docker.io/dpage/pgadmin4:latest
 docker.io/vaultwarden/server:latest
-docker.io/zadam/trilium:latest
 docker.io/louislam/uptime-kuma:2
 docker.io/rustdesk/rustdesk-server:latest
 portainer/portainer-ee:sts
@@ -46,3 +45,4 @@ docker.io/githubyumao/mcsmanager-web:latest
 #ghcr.io/sillytavern/sillytavern:latest
 #docker.io/chaoszhu/easynode:latest
 #docker.io/seafileltd/seafile-mc:9.0.5
+#docker.io/zadam/trilium:latest
