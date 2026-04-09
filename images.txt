@@ -1,3 +1,4 @@
+docker.io/mailserver/docker-mailserver:latest
 docker.io/netdata/netdata:latest
 docker.io/postgres:16
 docker.io/dpage/pgadmin4:latest
