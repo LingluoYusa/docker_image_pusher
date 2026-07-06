@@ -9,6 +9,7 @@ portainer/portainer-ee:sts
 
 docker.io/onlyoffice/documentserver:latest
 docker.io/jellyfin/jellyfin:latest
+docker.io/nyanmisaka/jellyfin:latest
 docker.io/githubyumao/mcsmanager-daemon:latest
 docker.io/githubyumao/mcsmanager-web:latest
 
