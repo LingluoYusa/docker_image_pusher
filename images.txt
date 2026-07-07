@@ -7,6 +7,7 @@ docker.io/louislam/uptime-kuma:2
 docker.io/rustdesk/rustdesk-server:latest
 portainer/portainer-ee:sts
 
+docker.io/alpine:latest
 docker.io/linuxserver/qbittorrent:latest
 docker.io/onlyoffice/documentserver:latest
 docker.io/jellyfin/jellyfin:latest
