@@ -10,6 +10,7 @@ portainer/portainer-ee:sts
 
 docker.io/tailscale/tailscale:stable
 docker.io/alpine:latest
+docker.io/ghostchu/peerbanhelper:latest
 docker.io/linuxserver/qbittorrent:latest
 docker.io/onlyoffice/documentserver:latest
 docker.io/jellyfin/jellyfin:latest
