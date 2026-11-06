@@ -1,6 +1,6 @@
+docker.io/containrrr/watchtower
 docker.io/mailserver/docker-mailserver:latest
 docker.io/headscale/headscale:latest
-docker.io/netdata/netdata:latest
 docker.io/postgres:16
 docker.io/dpage/pgadmin4:latest
 docker.io/vaultwarden/server:latest
@@ -13,9 +13,6 @@ docker.io/alpine:latest
 docker.io/ghostchu/peerbanhelper:latest
 docker.io/linuxserver/qbittorrent:latest
 docker.io/onlyoffice/documentserver:latest
-docker.io/jellyfin/jellyfin:latest
-docker.io/githubyumao/mcsmanager-daemon:latest
-docker.io/githubyumao/mcsmanager-web:latest
 
 #指定版本
 #docker.io/linuxserver/duplicati:2.1.0
@@ -23,6 +20,10 @@ docker.io/githubyumao/mcsmanager-web:latest
 
 
 #归档
+#docker.io/jellyfin/jellyfin:latest
+#docker.io/githubyumao/mcsmanager-daemon:latest
+#docker.io/githubyumao/mcsmanager-web:latest
+#docker.io/netdata/netdata:latest
 #docker.io/openjdk:17
 #ghcr.io/logseq/logseq-webapp:latest
 #docker.io/halohub/halo:1.5.3
